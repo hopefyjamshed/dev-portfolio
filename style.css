@@ -46,9 +46,20 @@ h1 {
 }
 
 .shadow-part {
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 40px gray;
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
+    padding-left: 20px;
 
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.experiences-section {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
 }
